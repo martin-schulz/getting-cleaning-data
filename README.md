@@ -1,7 +1,7 @@
 ## How to use
 
-1. Copy script *runAnalysis.R* into a folder containing all raw data files (no subfolders!)
-2. Run script
+1. Set working directory to folder containing all raw data files (no subfolders!)
+2. Run script *run_analysis.R*
 
 
 ## Information and documentation

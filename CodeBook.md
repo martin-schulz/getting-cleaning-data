@@ -1,9 +1,3 @@
----
-title: "Code Book"
-output: html_document
----
-
-
 ## About
 
 #### Background
@@ -29,11 +23,11 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 #### Data sets
 
-*tidydata.csv*
+*tidydata.txt*
 
 The base data set as described in the following sections, *Variables* and *Transformations*.
 
-*tidydata_summary.csv*
+*tidydata_summary.txt*
 
 The summarised data set. The variables from the base data set are summarised as averages by subject and activity. Each variable name apart from the first 3 variables is the original variable name prefixed by "Mean_".
 
@@ -222,5 +216,5 @@ Reduced data set to contain only mean and standard deviation features. This redu
 
 #### Step 6 - Write outputs to files
 
-1. Base data set -> *tidydata.csv*
-2. Summarised data set -> *tidydata_summary.csv*
+1. Base data set -> *tidydata.txt*
+2. Summarised data set -> *tidydata_summary.txt*
