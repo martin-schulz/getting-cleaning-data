@@ -1,9 +1,3 @@
----
-title: "Readme"
-output: html_document
----
-
-
 ## How to use
 
 1. Copy script *runAnalysis.R* into a folder containing all raw data files (no subfolders!)
